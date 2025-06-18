@@ -32,6 +32,6 @@ Participei do **Coursera Data Science Coding Challenge**, uma competição globa
 Sinta-se à vontade para conferir o EDA e o notebook final, ou entrar em contato para discutir a solução!
 
 # 📄 Artigo Técnico
-Para uma descrição detalhada da metodologia, resultados e implicações práticas deste projeto, consulte o relatório técnico completo disponível em Utils/Churn Prediction with Advanced Feature Engineering and Ensemble Methods pt-br.pdf.
+Para uma descrição detalhada da metodologia, resultados e implicações práticas deste projeto, consulte o relatório técnico completo disponível em [Utils/Churn Prediction with Advanced Feature Engineering and Ensemble Methods pt-br.pdf](https://github.com/Iz-castro/Coursera-Data-Science-Coding-Challenge-Churn-Prediction/blob/main/Utils/Churn%20Prediction%20with%20Advanced%20Feature%20Engineering%20and%20Ensem%20pt-br.pdf).
 
 O artigo traz uma análise aprofundada das etapas, estratégias de modelagem, técnicas de engenharia de atributos e o impacto prático da solução desenvolvida.
