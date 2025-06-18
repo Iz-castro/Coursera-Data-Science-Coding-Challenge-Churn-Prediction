@@ -13,7 +13,8 @@ I participated in the **Coursera Data Science Coding Challenge**, a global compe
 ## 📂 Project
 
 - **mini-eda.ipynb** 
-- **ChurnPrediction.ipynb** 
+- **ChurnPrediction.ipynb**
+-  lab link: https://hub.labs.coursera.org:443/connect/sharedwagyxjuz?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep
 
 ## ✨ Challenge Highlights
 
