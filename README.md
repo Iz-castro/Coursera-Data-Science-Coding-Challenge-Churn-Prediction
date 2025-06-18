@@ -8,7 +8,7 @@ I participated in the **Coursera Data Science Coding Challenge**, a global compe
 - **Percentile:** 93rd (better than 93% of participants)
 - **Competition average:** 68.06%
 
-![Results](.utils/Captura%20de%20tela%202025-06-17%20025705.png)
+![Results](Utils/Captura%20de%20tela%202025-06-17%20025705.png)
 
 ## 📂 Project
 
