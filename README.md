@@ -29,3 +29,8 @@ I participated in the **Coursera Data Science Coding Challenge**, a global compe
 ---
 
 **Feel free to check the EDA and final notebook, or reach out if you’d like to discuss the solution!**
+
+# 📄 Technical Article
+For a detailed description of the methodology, results, and business implications of this project, see the full technical report available in the [Churn Prediction with Advanced Feature Engineering and Ensemble Methods.pdf](Utils/Churn Prediction with Advanced Feature Engineering and Ensemble Methods.pdf) file.
+
+The report presents an in-depth analysis of the steps, modeling strategies, feature engineering techniques, and the practical impact of the solution.
